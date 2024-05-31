@@ -1,0 +1,1 @@
+{"name":"Local: Same_Parity","url":"d:\\codeforces\\Same_Parity.cpp","tests":[{"id":1683963752398,"input":"8\n10 3\n100 4\n8 7\n97 2\n8 8\n3 10\n5 3\n1000000000 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Same_Parity.cpp","group":"local","local":true}

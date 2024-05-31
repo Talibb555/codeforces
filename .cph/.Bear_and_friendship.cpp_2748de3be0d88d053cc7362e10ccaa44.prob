@@ -1,0 +1,1 @@
+{"name":"Local: Bear_and_friendship","url":"d:\\codeforces\\Bear_and_friendship.cpp","tests":[{"id":1698992272232,"input":"4 3\n1 3\n3 4\n1 4\n","output":""},{"id":1698992285671,"input":"10 4\n4 3\n5 10\n8 9\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Bear_and_friendship.cpp","group":"local","local":true}

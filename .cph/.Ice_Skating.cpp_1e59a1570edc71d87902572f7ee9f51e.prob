@@ -1,0 +1,1 @@
+{"name":"Local: Ice_Skating","url":"d:\\codeforces\\Ice_Skating.cpp","tests":[{"id":1686378614974,"input":"2\n2 1\n1 2\n","output":""},{"id":1686378626102,"input":"2\n2 1\n4 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Ice_Skating.cpp","group":"local","local":true}

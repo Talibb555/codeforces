@@ -1,0 +1,1 @@
+{"name":"Local: Magical_Calendar","url":"d:\\codeforces\\Magical_Calendar.cpp","tests":[{"id":1686210579466,"input":"5\n3 4\n3 2\n3 1\n13 7\n1010000 9999999","output":"4\n3\n1\n28\n510049495001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Magical_Calendar.cpp","group":"local","local":true}

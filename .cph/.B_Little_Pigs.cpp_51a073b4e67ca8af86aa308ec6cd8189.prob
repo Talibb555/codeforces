@@ -1,0 +1,1 @@
+{"name":"Local: B_Little_Pigs","url":"d:\\codeforces\\B_Little_Pigs.cpp","tests":[{"id":1660824918605,"input":"6 2\n.W\n.W\n.P\nWP\n.P\nPW","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\B_Little_Pigs.cpp","group":"local","local":true}

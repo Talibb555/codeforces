@@ -1,0 +1,1 @@
+{"name":"Local: Get_an_even_string","url":"d:\\codeforces\\Get_an_even_string.cpp","tests":[{"id":1694971628003,"input":"6\naabbdabdccc\nzyx\naaababbb\naabbcc\noaoaaaoo\nbmefbmuyw","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Get_an_even_string.cpp","group":"local","local":true}

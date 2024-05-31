@@ -1,0 +1,1 @@
+{"name":"Local: Remove_first_second","url":"d:\\codeforces\\Remove_first_second.cpp","tests":[{"id":1715580098560,"input":"5\n5\naaaaa\n1\nz\n5\nababa\n14\nbcdaaaabcdaaaa\n20\nabcdefghijklmnopqrst\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Remove_first_second.cpp","group":"local","local":true}

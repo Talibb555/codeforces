@@ -1,0 +1,1 @@
+{"name":"Local: constestC","url":"d:\\codeforces\\constestC.cpp","tests":[{"id":1666334246191,"input":"4\n3\n1 1 2\n4\n4 4 4 4\n1\n1\n5\n1 3 2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\constestC.cpp","group":"local","local":true}

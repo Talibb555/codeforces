@@ -1,0 +1,1 @@
+{"name":"Local: Ternary_XOR","url":"d:\\codeforces\\Ternary_XOR.cpp","tests":[{"id":1683971295845,"input":"4\n5\n22222\n5\n21211\n1\n2\n9\n220222021\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Ternary_XOR.cpp","group":"local","local":true}

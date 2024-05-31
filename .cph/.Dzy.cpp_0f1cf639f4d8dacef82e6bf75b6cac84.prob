@@ -1,0 +1,1 @@
+{"name":"Local: Dzy","url":"d:\\codeforces\\Dzy.cpp","tests":[{"id":1684137207917,"input":"2 2\n..\n..\n","output":""},{"id":1684137288263,"input":"3 3\n.-.\n---\n--.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Dzy.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Pluses_Minuses","url":"d:\\codeforces\\Pluses_Minuses.cpp","tests":[{"id":1694977165600,"input":"3\n--+-\n---\n++--+-\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Pluses_Minuses.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Vasya_and_String","url":"d:\\codeforces\\Vasya_and_String.cpp","tests":[{"id":1695562490489,"input":"4 2\nabba\n","output":""},{"id":1695562523245,"input":"8 1\naabaabaa\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Vasya_and_String.cpp","group":"local","local":true}

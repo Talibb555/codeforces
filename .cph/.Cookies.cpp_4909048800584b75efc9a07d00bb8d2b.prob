@@ -1,0 +1,1 @@
+{"name":"Local: Cookies","url":"d:\\codeforces\\Cookies.cpp","tests":[{"id":1685944249995,"input":"6\n2 2 1 2\n0 100 0 1\n12 13 25 1\n27 83 14 25\n0 0 1 0\n1000000000000000000 1000000000000000000 1000000000000000000 1000000000000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Cookies.cpp","group":"local","local":true}

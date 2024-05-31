@@ -1,0 +1,1 @@
+{"name":"Local: K_Tree","url":"d:\\codeforces\\K_Tree.cpp","tests":[{"id":1695317491668,"input":"3 3 2\n","output":""},{"id":1695317506662,"input":"3 3 3\n","output":""},{"id":1695317518268,"input":"28 6 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\K_Tree.cpp","group":"local","local":true}

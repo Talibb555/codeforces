@@ -1,0 +1,1 @@
+{"name":"Local: Collecting_Integers","url":"d:\\codeforces\\Collecting_Integers.cpp","tests":[{"id":1715584782033,"input":"4\n5\n20 5 1 4 2\n3\n1434 7 1442\n1\n1\n5\n999999999 999999999 999999999 1000000000 1000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Collecting_Integers.cpp","group":"local","local":true}

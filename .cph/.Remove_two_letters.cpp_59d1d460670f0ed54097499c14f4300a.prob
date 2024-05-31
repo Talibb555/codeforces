@@ -1,0 +1,1 @@
+{"name":"Local: Remove_two_letters","url":"d:\\codeforces\\Remove_two_letters.cpp","tests":[{"id":1693740698607,"input":"7\n6\naaabcc\n10\naaaaaaaaaa\n6\nabcdef\n7\nabacaba\n6\ncccfff\n4\nabba\n5\nababa","output":"4\n1\n5\n3\n3\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Remove_two_letters.cpp","group":"local","local":true}

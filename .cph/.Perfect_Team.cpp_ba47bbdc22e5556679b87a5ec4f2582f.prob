@@ -1,0 +1,1 @@
+{"name":"Local: Perfect_Team","url":"d:\\codeforces\\Perfect_Team.cpp","tests":[{"id":1686123266822,"input":"6\n1 1 1\n3 6 0\n0 0 0\n0 1 1\n10 1 10\n4 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Perfect_Team.cpp","group":"local","local":true}

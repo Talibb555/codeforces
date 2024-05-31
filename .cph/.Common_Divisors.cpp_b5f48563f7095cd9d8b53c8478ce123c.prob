@@ -1,0 +1,1 @@
+{"name":"Local: Common_Divisors","url":"d:\\codeforces\\Common_Divisors.cpp","tests":[{"id":1687592981111,"input":"6\n6 90 12 18 30 18\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Common_Divisors.cpp","group":"local","local":true}

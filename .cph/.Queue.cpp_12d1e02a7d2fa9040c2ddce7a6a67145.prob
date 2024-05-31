@@ -1,0 +1,1 @@
+{"name":"Local: Queue","url":"d:\\codeforces\\Queue.cpp","tests":[{"id":1684995261749,"input":"5\n15 2 1 5 3\n","output":""},{"id":1684995563807,"input":"10 \n1 1 2 3 5 8 13 21 34 55","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Queue.cpp","group":"local","local":true}

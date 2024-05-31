@@ -1,0 +1,1 @@
+{"name":"Local: Social_Distance","url":"d:\\codeforces\\Social_Distance.cpp","tests":[{"id":1684835286299,"input":"6\n6 1\n100010\n6 2\n000000\n5 1\n10101\n3 1\n001\n2 2\n00\n1 1\n0\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Social_Distance.cpp","group":"local","local":true}

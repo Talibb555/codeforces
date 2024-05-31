@@ -1,0 +1,1 @@
+{"name":"Local: DolceVita","url":"/Volumes/Hard Disk/codeforces/DolceVita.cpp","tests":[{"id":1716704022297,"input":"4\n3 7\n2 1 2\n5 9\n10 20 30 40 50\n1 1\n1\n2 1000\n1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/Hard Disk/codeforces/DolceVita.cpp","group":"local","local":true}

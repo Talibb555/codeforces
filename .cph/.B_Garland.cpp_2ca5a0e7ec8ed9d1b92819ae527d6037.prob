@@ -1,0 +1,1 @@
+{"name":"Local: B_Garland","url":"d:\\codeforces\\B_Garland.cpp","tests":[{"id":1661512640426,"input":"aaabbac\naabbccac\n","output":""},{"id":1661514871938,"input":"a\nz\n","output":""},{"id":1661515102709,"input":"yqfqfp\ntttwtqq","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\B_Garland.cpp","group":"local","local":true}

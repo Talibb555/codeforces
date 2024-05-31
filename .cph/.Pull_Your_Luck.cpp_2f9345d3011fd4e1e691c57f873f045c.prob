@@ -1,0 +1,1 @@
+{"name":"Local: Pull_Your_Luck","url":"d:\\codeforces\\Pull_Your_Luck.cpp","tests":[{"id":1683536527396,"input":"7\n5 2 1\n5 2 2\n10 0 100\n11 7 100\n3 1 1000\n31 0 10\n100 49 7\n","output":"No\nYes\nYes\nYes\nNo\nNo\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Pull_Your_Luck.cpp","group":"local","local":true}

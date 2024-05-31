@@ -1,0 +1,1 @@
+{"name":"Local: Pylons","url":"d:\\codeforces\\Pylons.cpp","tests":[{"id":1685446698186,"input":"5\n3 4 3 2 4\n","output":""},{"id":1685446730108,"input":"3\n4 4 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Pylons.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B_Vasya_Calender","url":"d:\\codeforces\\B_Vasya_Calender.cpp","tests":[{"id":1662054557232,"input":"31\n12\n31 28 31 30 31 30 31 31 30 31 30 31\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\B_Vasya_Calender.cpp","group":"local","local":true}

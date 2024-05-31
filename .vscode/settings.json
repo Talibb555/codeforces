@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "unordered_set": "cpp",
+        "set": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

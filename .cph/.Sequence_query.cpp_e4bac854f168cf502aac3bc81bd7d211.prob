@@ -1,0 +1,1 @@
+{"name":"Local: Sequence_query","url":"d:\\codeforces\\Sequence_query.cpp","tests":[{"id":1699558855238,"input":"11\n1 20\n1 10\n1 30\n1 20\n3 15 1\n3 15 2\n3 15 3\n3 15 4\n2 100 5\n1 1\n2 100 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Sequence_query.cpp","group":"local","local":true}

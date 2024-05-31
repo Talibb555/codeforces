@@ -1,0 +1,1 @@
+{"name":"Local: Good_Subarray","url":"d:\\codeforces\\Good_Subarray.cpp","tests":[{"id":1695461980289,"input":"3\n3\n120\n5\n11011\n6\n600005\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Good_Subarray.cpp","group":"local","local":true}

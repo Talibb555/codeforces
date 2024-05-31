@@ -1,0 +1,1 @@
+{"name":"Local: Worms","url":"d:\\codeforces\\Worms.cpp","tests":[{"id":1683803094385,"input":"5\n2 7 3 4 9\n3\n1 25 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Worms.cpp","group":"local","local":true}

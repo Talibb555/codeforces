@@ -1,0 +1,1 @@
+{"name":"Local: Number_Game","url":"d:\\codeforces\\Number_Game.cpp","tests":[{"id":1683618175695,"input":"7\n1\n2\n3\n4\n5\n6\n12","output":"FastestFinger\nAshishgup\nAshishgup\nFastestFinger\nAshishgup\nFastestFinger\nAshishgup"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Number_Game.cpp","group":"local","local":true}

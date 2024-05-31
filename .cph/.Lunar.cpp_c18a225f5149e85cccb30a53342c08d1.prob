@@ -1,0 +1,1 @@
+{"name":"Local: Lunar","url":"d:\\codeforces\\Lunar.cpp","tests":[{"id":1699339044830,"input":"5 5\n1 4\n3 4\n5 4\n3 2\n1 5\n","output":""},{"id":1699339059085,"input":"10 10\n1 4\n6 8\n2 5\n3 7\n9 4\n5 6\n3 4\n8 10\n8 9\n1 10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Lunar.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Permuatation_trans","url":"d:\\codeforces\\Permuatation_trans.cpp","tests":[{"id":1688106716153,"input":"3\n5\n3 5 2 1 4\n1\n1\n4\n4 3 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Permuatation_trans.cpp","group":"local","local":true}

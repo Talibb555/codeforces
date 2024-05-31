@@ -1,0 +1,1 @@
+{"name":"Local: Sorted_differnes","url":"d:\\codeforces\\Sorted_differnes.cpp","tests":[{"id":1684234596519,"input":"2\n6\n5 -2 4 8 6 5\n4\n8 1 4 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Sorted_differnes.cpp","group":"local","local":true}

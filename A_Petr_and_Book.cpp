@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    int a[7];
+    for (int i = 0; i < 7; i++)
+    {
+        cin >> a[i];
+    }
+    int i = 0;
+    while (n > 0)
+    {
+        n -= a[i % 7];
+        i++;
+        // cout<<n<<" ";
+    }
+    if (i % 7 == 0)
+        cout <<  7;
+    else
+        cout << i % 7;
+    // cout<<n;
+
+    return 0;
+}
