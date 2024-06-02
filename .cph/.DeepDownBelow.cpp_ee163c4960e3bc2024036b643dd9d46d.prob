@@ -1,0 +1,1 @@
+{"name":"Local: DeepDownBelow","url":"/Volumes/HardDisk/codeforces/DeepDownBelow.cpp","tests":[{"id":1717308458879,"input":"2\n1\n1 42\n2\n3 10 15 8\n2 12 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/HardDisk/codeforces/DeepDownBelow.cpp","group":"local","local":true}
