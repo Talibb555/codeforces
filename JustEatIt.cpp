@@ -27,7 +27,7 @@ int main()
             // cout<<sum<<endl;
         }
         // cout<<"ans: "<<ans<<endl;
-        cout<<total<<" "<<ans<<" "<<maxLen<<endl;
+        // cout<<total<<" "<<ans<<" "<<maxLen<<endl;
         if(maxLen==n || ans<total) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }   
