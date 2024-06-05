@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     string s;cin>>s;
-    int a=0,b=0,c=0;
+    long long a=0,b=0,c=0;
     for(int i=0;i<s.size();i++){
         if(s[i]=='o') b+=a;
         else if(i+1<s.size() && s[i+1]=='v'){

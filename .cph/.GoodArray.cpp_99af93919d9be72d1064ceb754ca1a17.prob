@@ -1,0 +1,1 @@
+{"name":"Local: GoodArray","url":"/Volumes/HardDisk/codeforces/GoodArray.cpp","tests":[{"id":1717569209913,"input":"5\n2 5 1 2 2\n","output":""},{"id":1717569444886,"input":"5\n2 1 2 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/HardDisk/codeforces/GoodArray.cpp","group":"local","local":true}
