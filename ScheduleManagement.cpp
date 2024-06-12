@@ -8,9 +8,9 @@
 #include <stack>
 using namespace std;
 
-bool f(int time, map<int,int> &m, int n){
-    int extraTime=0, neededTime=0;
-    for(int i=1;i<=n;i++){
+bool f(long long time, map<long long,long long> &m, long long n){
+    long long extraTime=0, neededTime=0;
+    for(long long i=1;i<=n;i++){
         if(time<=m[i]){
             neededTime+=(m[i]-time);
         } else {
@@ -22,17 +22,17 @@ bool f(int time, map<int,int> &m, int n){
 
 int main()
 {
-    int t;cin>>t;
+    long long t;cin>>t;
     while(t--){
-        int n,m;cin>>n>>m;
-        vector<int> a(m);
-        map<int,int> mp;
-        for(int i=0;i<m;i++) {cin>>a[i];mp[a[i]]++;}
+        long long n,m;cin>>n>>m;
+        vector<long long> a(m);
+        map<long long,long long> mp;
+        for(long long i=0;i<m;i++) {cin>>a[i];mp[a[i]]++;}
 
-        int lo=0, hi=2*m;
-        int ans=-1;
+        long long lo=0, hi=2*m;
+        long long ans=-1;
         while(lo<=hi){
-            int mid=lo+(hi-lo)/2;
+            long long mid=lo+(hi-lo)/2;
             if(f(mid,mp,n)){
                 ans=mid;
                 hi=mid-1;

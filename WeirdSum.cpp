@@ -28,7 +28,7 @@ int main()
         vector<long long> t=i.second;
         long long sum=accumulate(t.begin(),t.end(),0);
         for(long long j=0;j<t.size();j++){
-            ans+=(sum-(t[j]*(t.size()-j)));
+            ans+=(sum-(t[j]*1LL*(t.size()-j)));
             sum-=t[j];
         }
         // cout<<ans<<endl;
@@ -39,9 +39,9 @@ int main()
         // for(auto j:i.second) cout<<j<<" ";
         // cout<<endl;
         vector<long long> t=i.second;
-        long long sum=accumulate(t.begin(),t.end(),0);
+        long long sum=accumulate(t.begin(),t.end(),0LL);
         for(long long j=0;j<t.size();j++){
-            ans+=(sum-(t[j]*(t.size()-j)));
+            ans+=(sum-(t[j]*1LL*(t.size()-j)));
             sum-=t[j];
         }
         // cout<<ans<<endl;

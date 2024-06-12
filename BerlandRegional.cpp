@@ -8,44 +8,41 @@
 #include <stack>
 using namespace std;
 
-int main()
-{
-    int t;cin>>t;
-    while(t--){
-        int n;cin>>n;
-        vector<int> u(n),s(n);
-        for(int i=0;i<n;i++) cin>>u[i];
-        for(int i=0;i<n;i++) cin>>s[i];
-        
-        map<int,vector<int> > m;
-        for(int i=0;i<n;i++) m[u[i]].push_back(s[i]);
-        for(auto &i:m) sort(i.second.begin(),i.second.end());
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+        vector<int> u(n), s(n);
+        for (int i = 0; i < n; i++) cin >> u[i];
+        for (int i = 0; i < n; i++) cin >> s[i];
 
-        map<int, vector<long long> > prefix_sums;
-        for(auto &i : m) {
-            vector<long long> t(i.second.size(), 0);
-            t[0]=i.second[0];
-            for(int j = 1; j < i.second.size(); j++) {
-                t[j] = t[j-1] + i.second[j];
+        map<int, vector<int>> m;
+        for (int i = 0; i < n; i++) m[u[i]].push_back(s[i]);
+        for (auto &i : m) sort(i.second.rbegin(), i.second.rend());
+
+        map<int, vector<long long>> prefix_sums;
+        for (auto &i : m) {
+            vector<long long> t(i.second.size() + 1, 0);
+            for (int j = 0; j < i.second.size(); j++) {
+                t[j + 1] = t[j] + i.second[j];
             }
             prefix_sums[i.first] = t;
         }
-        for(int k=1;k<=n;k++){
-            int ans=0;
-            for(auto i:prefix_sums){
-                if(k>i.second.size()) continue;
-                if(i.second.size()%k==0) ans+=i.second.back();
-                else ans+=(i.second.back()-i.second[(i.second.size()%k)-1]);
+
+        vector<long long> result(n + 1, 0);
+        for (auto &i : prefix_sums) {
+            int size = i.second.size() - 1;
+            for (int k = 1; k <= size; k++) {
+                result[k] += i.second[size - (size % k)];
             }
-            cout<<ans<<" ";
         }
-        cout<<endl;
-        // for(auto i:prefix_sums){
-        //     cout<<i.first<<": ";
-        //     for(auto j:i.second) cout<<j<<" ";
-        //     cout<<endl;
-        // }
-        // cout<<endl;
-    }   
+
+        for (int k = 1; k <= n; k++) {
+            cout << result[k] << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }
