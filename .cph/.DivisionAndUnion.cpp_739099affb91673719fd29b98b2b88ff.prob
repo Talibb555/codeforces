@@ -1,0 +1,1 @@
+{"name":"Local: DivisionAndUnion","url":"/Volumes/HardDisk/codeforces/DivisionAndUnion.cpp","tests":[{"id":1719125085927,"input":"3\n2\n5 5\n2 3\n3\n3 5\n2 3\n2 3\n3\n3 3\n4 4\n5 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/HardDisk/codeforces/DivisionAndUnion.cpp","group":"local","local":true}

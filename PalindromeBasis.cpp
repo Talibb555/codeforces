@@ -38,7 +38,7 @@ bool palin(int n){
 // }
 
 const int mod = (int)(1e9+7);
-int dp[510][40000+3];
+int dp[520][40000+11];
 
 int rec(vector<int> &v, int target, int ind){
     if(target==0) return 1;
@@ -57,10 +57,11 @@ int main()
     for(int i=1;i<=2*40001;i++){
         if(palin(i)) v.push_back(i);
     }
-    memset(dp,-1,sizeof(dp));
+    
     while(t--){
         int n;cin>>n;
         // vector<int>ds;
+        memset(dp,-1,sizeof(dp));
         cout<<rec(v,n,0)<<endl;
     }   
     return 0;

@@ -8,6 +8,8 @@
 #include <stack>
 using namespace std;
 
+
+
 long long rec(vector<long long> &v, long long ind, long long a, long long b, long long cap){
     if(ind>=v.size()) return 0;
     long long changeCapital = b*(abs(v[cap]-v[ind])) + a*(abs(v[cap]-v[ind])) + rec(v,ind+1,a,b,ind);
